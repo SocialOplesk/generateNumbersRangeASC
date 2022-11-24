@@ -1,3 +1,3 @@
-# generateNumbersRangeASC
+# generateNumberRangeASC
 
 ![code](code.png)
